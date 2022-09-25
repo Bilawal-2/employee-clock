@@ -9,6 +9,7 @@
           <option name="noStdlib" value="true" />
           <option name="noReflect" value="true" />
           <option name="moduleName" value="_EmployeeClock" />
+          <option name="jvmTarget" value="1.6" />
           <option name="languageVersion" value="1.2" />
           <option name="apiVersion" value="1.2" />
           <option name="pluginOptions">
@@ -17,7 +18,6 @@
           <option name="pluginClasspaths">
             <array />
           </option>
-          <option name="coroutinesState" value="warn" />
           <option name="errors">
             <ArgumentParseErrors />
           </option>
